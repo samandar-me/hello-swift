@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:NewSwift.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Gererics.playground">
+   </FileRef>
+   <FileRef
+      location = "group:protocols.playground">
+   </FileRef>
+   <FileRef
+      location = "group:classes.playground">
+   </FileRef>
+   <FileRef
+      location = "group:enamurations.playground">
+   </FileRef>
+   <FileRef
+      location = "group:structures.playground">
+   </FileRef>
+   <FileRef
+      location = "group:closures.playground">
+   </FileRef>
+   <FileRef
+      location = "group:functions.playground">
+   </FileRef>
+   <FileRef
+      location = "group:if-else.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Variables.playground">
+   </FileRef>
+</Workspace>
